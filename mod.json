@@ -15,5 +15,6 @@
 	"name": "Wave Particles Fix",
 	"version": "v1.0.0",
 	"developer": "Saritahhh",
+	"repository":"https://github.com/DeepRsnanceX/WaveParticlesFix",
 	"description": "Fixes drag particles showing in wave sometimes."
 }
