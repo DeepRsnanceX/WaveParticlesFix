@@ -1,0 +1,19 @@
+{
+	"geode": "4.1.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"id": "saritahhh.wave_particles_fix",
+	"name": "Wave Particles Fix",
+	"version": "v1.0.0",
+	"developer": "Saritahhh",
+	"description": "Fixes drag particles showing in wave sometimes."
+}
